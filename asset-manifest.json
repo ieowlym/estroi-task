@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/estroi-task/static/css/main.7ee0cd5e.css",
-    "main.js": "/estroi-task/static/js/main.f123a46a.js",
+    "main.js": "/estroi-task/static/js/main.6fe4f6e9.js",
     "static/js/787.251bd18f.chunk.js": "/estroi-task/static/js/787.251bd18f.chunk.js",
     "index.html": "/estroi-task/index.html",
     "main.7ee0cd5e.css.map": "/estroi-task/static/css/main.7ee0cd5e.css.map",
-    "main.f123a46a.js.map": "/estroi-task/static/js/main.f123a46a.js.map",
+    "main.6fe4f6e9.js.map": "/estroi-task/static/js/main.6fe4f6e9.js.map",
     "787.251bd18f.chunk.js.map": "/estroi-task/static/js/787.251bd18f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ee0cd5e.css",
-    "static/js/main.f123a46a.js"
+    "static/js/main.6fe4f6e9.js"
   ]
 }
